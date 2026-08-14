@@ -51,5 +51,5 @@ I'm someone who programs for fun and enjoys creating new things. My hobbies have
 
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pxstalhellsing&theme=dark&hide_border=true&locale=es" alt="Programer" width="25%"/>
+<img src="https://streak-stats.demolab.com?user=pxstalhellsing&theme=dark&hide_border=true&locale=es" alt="Programer" width="100%"/>
 </p>
