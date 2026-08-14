@@ -1,4 +1,4 @@
-<h1 align="center">Hello There I'M NEVAN &nbsp;<img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/shanks.gif?raw=true" width="52"></a></h1>
+<h1 align="center">Hello There I'M NEVAN &nbsp;<img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/shanks.gif?raw=true" width="67"></a></h1>
 
 
 <div align="center">
