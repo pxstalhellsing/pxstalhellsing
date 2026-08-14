@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://linktr.ee/HunterxMarine">
+    <img width="100%" src="https://imgur.com/gallery/berserkedit-EQjUx4s#8LkD1Xw" />
+  </a>
+</div>
 
 
 ![Logo](https://64.media.tumblr.com/a9cb33b954aec9ff2706be63596b0c51/tumblr_orawcifAMd1wqyomso2_540.gifv)
