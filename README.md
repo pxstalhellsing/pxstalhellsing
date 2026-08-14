@@ -47,7 +47,8 @@ I'm someone who programs for fun and enjoys creating new things. My hobbies have
 - Techtacks: `.js `, `.html` , `.py`, `.r ` , `.css`
 
 
-### GitHub Stats
+
+<h2 align="center">GitHub Stats</h2>
 
 
 <p align="center">
