@@ -56,6 +56,6 @@ I'm someone who programs for fun and enjoys creating new things. My hobbies have
 
 
 ### GitHub Stats
-<p align="center">
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=pxstalhellsing&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-</p>
+</div>
