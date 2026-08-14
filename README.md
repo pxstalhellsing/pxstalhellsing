@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://linktr.ee/HunterxMarine">
-    <img width="100%" src="https://imgur.com/gallery/berserkedit-EQjUx4s#8LkD1Xw" />
+    <img width="100%" src="https://i.imgur.com/8LkD1Xw.gif" />
   </a>
 </div>
 
