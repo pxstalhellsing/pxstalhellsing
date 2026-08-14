@@ -5,7 +5,9 @@
 
 ## HELLO THERE - I'M NEVAN 🍕
 
-[![RetroArhivement](https://imgur.com/gallery/retro-auPJLpG#bGFBSqO)
+[![RetroArhivement](https://i.imgur.com/5VmgIYJ.png)](https://retroachievements.org/user/NevanSoul)
+
+
 
 
 
@@ -21,6 +23,4 @@
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pxstalhellsing&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-
 
