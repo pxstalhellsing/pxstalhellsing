@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/9f2ffea57aa0da36a2ee2e043e6fd0d13.gif.3ebf7e9999fecd0bd86079b2fb0c01c8.gif?raw=true" alt="Separador" width="200"
+  <img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/9f2ffea57aa0da36a2ee2e043e6fd0d13.gif.3ebf7e9999fecd0bd86079b2fb0c01c8.gif?raw=true" alt="Separador" width="500"
     >
   
 </p>
