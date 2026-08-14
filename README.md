@@ -18,15 +18,22 @@
 
 --- 
 
+
+
 <p align="center">
-<img src="https://camo.githubusercontent.com/92b72a46658dd2ecfa0df33facff2ee51e81fb99f38b9734a096737d60408752/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032342f30352f31362f32312f34352f32312d34352d33342d335f3531322e676966" alt="Programer" width="25%"  />
+<img src="https://camo.githubusercontent.com/92b72a46658dd2ecfa0df33facff2ee51e81fb99f38b9734a096737d60408752/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032342f30352f31362f32312f34352f32312d34352d33342d335f3531322e676966" alt="Programer" width="25%"/>
 </p>
 
+<br>
+
+<h2 align="center">About Me</h2>
 
 <p align="center">
   GAMER | EDITOR | REVIEWER | TROPHY HUNTER | TECH ENTHUSIAST
 </p>
+I'm someone who programs for fun and enjoys creating new things. My hobbies have always been video games, and I like to hunt for trophies. In the future, I plan to create a channel to share my guides and knowledge to help this group I belong to. I'm also an editor of images, GIFs, and videos. I started posting content on Amino before moving to other platforms like Pinterest and TikTok.
 
+<br>
 
 [![RetroArhivement](https://i.imgur.com/5VmgIYJ.png)](https://retroachievements.org/user/NevanSoul)
 
