@@ -1,3 +1,5 @@
+[![Separador](https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/9f2ffea57aa0da36a2ee2e043e6fd0d13.gif.3ebf7e9999fecd0bd86079b2fb0c01c8.gif?raw=true)]
+
 <h1 align="center">𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 - 𝐈'𝐌 𝐍𝐄𝐕𝐀𝐍𝐒𝐎𝐔𝐋 &nbsp;<img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/shanks.gif?raw=true" width="67"></a></h1>
 
 
