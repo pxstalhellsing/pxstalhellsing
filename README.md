@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/lv_0_20260814175907.gif?raw=true" alt="Berserk width="100%"" />
+<img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/lv_0_20260814175907.gif?raw=true" alt="Berserk width="200%"" />
 </p>
 
 
