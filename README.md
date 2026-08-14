@@ -5,6 +5,10 @@
 
 ---
 
+<br>
+“In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception.”
+<br>
+
 </p>
 <h1 align="center">𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 - 𝐈'𝐌 𝐍𝐄𝐕𝐀𝐍𝐒𝐎𝐔𝐋 &nbsp;<img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/shanks.gif?raw=true" width="67"></a></h1>
 
@@ -31,9 +35,10 @@
 <p align="center">
   GAMER | EDITOR | REVIEWER | TROPHY HUNTER | TECH ENTHUSIAST
 </p>
-I'm someone who programs for fun and enjoys creating new things. My hobbies have always been video games, and I like to hunt for trophies. In the future, I plan to create a channel to share my guides and knowledge to help this group I belong to. I'm also an editor of images, GIFs, and videos. I started posting content on Amino before moving to other platforms like Pinterest and TikTok.
-
+I'm someone who programs for fun and enjoys creating new things. My hobbies have always been video games, and I like hunt trophies. In the future, I plan to create a channel to share my guides and knowledge to help this group I belong to. I'm also an editor of images, GIFs, and videos. I started posting content on Amino before moving to other platforms like Pinterest and TikTok.
 <br>
+
+<h2 align="center">Trophy Hunter Account </h2>
 
 [![RetroArhivement](https://i.imgur.com/5VmgIYJ.png)](https://retroachievements.org/user/NevanSoul)
 
@@ -51,6 +56,6 @@ I'm someone who programs for fun and enjoys creating new things. My hobbies have
 
 
 ### GitHub Stats
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=pxstalhellsing&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-
+</p>
