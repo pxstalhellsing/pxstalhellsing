@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/92b72a46658dd2ecfa0df33facff2ee51e81fb99f38b9734a096737d60408752/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032342f30352f31362f32312f34352f32312d34352d33342d335f3531322e676966" alt="Programer" width="25%"/>
+<img src="https://camo.githubusercontent.com/92b72a46658dd2ecfa0df33facff2ee51e81fb99f38b9734a096737d60408752/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032342f30352f31362f32312f34352f32312d34352d33342d335f3531322e676966" alt="Programer" width="5%"/>
 </p>
 
 <br>
@@ -48,7 +48,7 @@ I'm someone who programs for fun and enjoys creating new things. My hobbies have
 
 
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"> GitHub Stats </h2>
 
 
 <p align="center">
