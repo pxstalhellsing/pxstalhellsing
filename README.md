@@ -42,7 +42,7 @@ I'm someone who programs for fun and enjoys creating new things. My hobbies have
 
 [![RetroArhivement](https://i.imgur.com/5VmgIYJ.png)](https://retroachievements.org/user/NevanSoul)
 
-
+[![Exophase](https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/317179.png?raw=true)](https://www.exophase.com/user/KrokodileHawk/)
 
 - MEMBER OF THE GOD HAND - BLOOD AND GUTS
 - I'm a developer from [Chile, Temuco](https://www.google.com/maps?sca_esv=982a7a7eeeed2b1f&biw=1536&bih=730&output=search&q=chile+temuco+mapa&source=lnms&fbs=ABfTbFX1iEH_fPoRLnS2LhKris6NtH0ColrkZQmSOmK2yOhh27XAROqMeZ79cO8zPq0Mi8gSDghEfobXiudVxqELA2my4bEQYO0YWizJwKlyOqXMdyCaROyudTXJEFYNd6Z6BwYiegAGxRoFd4fTFduAqVToU8CoGdS5sr5N6GBBKoZY6OZ2CKBso3GrMcNrmmdcf_DOP2JkXv9alxB0Wljos3L6sc-VZA&entry=mc&ved=1t:200715&ictx=111)
