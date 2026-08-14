@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/lv_0_20260814175907.gif?raw=true" alt="Profile views" width="200" height="35">
+  <img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/lv_0_20260814175907.gif?raw=true" alt="Profile views" width="200" height=100">
 </p>
 
 </p>
