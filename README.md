@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://linktr.ee/HunterxMarine">
-    <img width="50%" src="https://i.imgur.com/8LkD1Xw.gif" />
+    <img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/lv_0_20260815151901.gif?raw=true" width="100%" height=100"/>
   </a>
 </div>
 
