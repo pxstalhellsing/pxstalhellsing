@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <a href="https://linktr.ee/HunterxMarine">
+  <a href="https://nevansoul66x.carrd.co/">
     <img src="https://github.com/pxstalhellsing/pxstalhellsing/blob/main/img/lv_0_20260815151901.gif?raw=true" width="100%" height=100"/>
   </a>
 </div>
